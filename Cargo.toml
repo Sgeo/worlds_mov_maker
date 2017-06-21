@@ -1,0 +1,6 @@
+[package]
+name = "worlds_mov_maker"
+version = "0.1.0"
+authors = ["Sgeo <sgeoster@gmail.com>"]
+
+[dependencies]
